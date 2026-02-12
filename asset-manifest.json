@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/product-card-app/static/css/main.d85a0115.css",
-    "main.js": "/product-card-app/static/js/main.337a5f99.js",
+    "main.css": "/product-card-app/static/css/main.e0ba1b15.css",
+    "main.js": "/product-card-app/static/js/main.5c5dd96a.js",
     "index.html": "/product-card-app/index.html",
-    "main.d85a0115.css.map": "/product-card-app/static/css/main.d85a0115.css.map",
-    "main.337a5f99.js.map": "/product-card-app/static/js/main.337a5f99.js.map"
+    "main.e0ba1b15.css.map": "/product-card-app/static/css/main.e0ba1b15.css.map",
+    "main.5c5dd96a.js.map": "/product-card-app/static/js/main.5c5dd96a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d85a0115.css",
-    "static/js/main.337a5f99.js"
+    "static/css/main.e0ba1b15.css",
+    "static/js/main.5c5dd96a.js"
   ]
 }
